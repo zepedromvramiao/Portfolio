@@ -3,25 +3,113 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio</title>
+    <title>José Pedro Ramião - Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"> <!-- Font Awesome for icons -->
     <style>
+        /* Global Styles */
         body {
             font-family: Arial, sans-serif;
-            background-color: #f9f9f9;
+            background-color: #f3f3f3;
             margin: 0;
             padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1rem;
         }
         .container {
             max-width: 800px;
             margin: 0 auto;
             padding: 2rem;
             text-align: center;
+        }
+        /* Header Styles */
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem;
+            border-bottom: 3px solid #ff8c00; /* Orange border bottom */
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 5px 0 0;
+            font-size: 1.2rem;
+            opacity: 0.8;
+        }
+        /* About Me Section Styles */
+        .about-me {
+            background-color: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+        .about-me h2 {
+            margin-top: 0;
+            font-size: 1.8rem;
+            color: #333;
+        }
+        .about-me p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #666;
+        }
+        /* Projects Section Styles */
+        .projects {
+            background-color: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+        .projects h2 {
+            margin-top: 0;
+            font-size: 1.8rem;
+            color: #333;
+        }
+        .project-item {
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }
+        .project-item h3 {
+            margin-top: 0;
+            font-size: 1.4rem;
+            color: #333;
+        }
+        .project-item p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #666;
+        }
+        .project-item a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .project-item a:hover {
+            text-decoration: underline;
+        }
+        /* Contact Section Styles */
+        .contact {
+            background-color: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        .contact h2 {
+            margin-top: 0;
+            font-size: 1.8rem;
+            color: #333;
+        }
+        .contact p {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #666;
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -31,30 +119,33 @@
         <p>Power Platform | Portfolio</p>
     </header>
     <div class="container">
-        <h2>About Me</h2>
-        <p>Ph.D. in Hydrology and Climate Change, with expertise in GIS and modeling tools. Experienced researcher dedicated to assessing the impacts of climate change on water quality and hydropower generation. Passionate about environmental conservation, biodiversity preservation, and promoting sustainable agricultural practices. Currently expanding skills in programming through a low-code Power Platform course.</p>
-
-        <h2>Projects</h2>
-        <ul>
-            <li>
+        <div class="about-me">
+            <h2>About Me</h2>
+            <p>Ph.D. in Hydrology and Climate Change, with expertise in GIS and modeling tools. Experienced researcher dedicated to assessing the impacts of climate change on water quality and hydropower generation. Passionate about environmental conservation, biodiversity preservation, and promoting sustainable agricultural practices. Currently expanding skills in programming through a low-code Power Platform course.</p>
+        </div>
+        <div class="projects">
+            <h2>Projects</h2>
+            <div class="project-item">
                 <h3>Power BI project</h3>
-                <p>Power BI porject developed during the UpSkill program</p>
+                <p>Power BI project developed during the UpSkill program</p>
                 <a href="https://github.com/zepedromvramiao/Portfolio/tree/main/PowerBI_SpottersFinal">GitHub Repository</a>
-
+            </div>
+            <div class="project-item">
                 <h3>Power Apps project</h3>
-                <p>Power Apps porject developed during the UpSkill program</p>
+                <p>Power Apps project developed during the UpSkill program</p>
                 <a href="https://github.com/zepedromvramiao/Portfolio/tree/main/PowerApps_SolucaoSpotters">GitHub Repository</a>
-
+            </div>
+            <div class="project-item">
                 <h3>Power Automate project</h3>
-                <p>Power Automate porject developed during the UpSkill program</p>
+                <p>Power Automate project developed during the UpSkill program</p>
                 <a href="https://github.com/zepedromvramiao/Portfolio/tree/main/PowerAutomate_AprovacaoPdf">GitHub Repository</a>
-            </li>
-        </ul>
-
-        <h2>Contact</h2>
-        <p>Email: zepedroramiao.com</p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/zepedroramiao/">LinkedIn Profile</a></p>
+            </div>
+        </div>
+        <div class="contact">
+            <h2>Contact</h2>
+            <p>Email: zepedroramiao.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/zepedroramiao/">LinkedIn Profile</a></p>
+        </div>
     </div>
 </body>
 </html>
-
