@@ -13,5 +13,3 @@ Feel free to explore each project folder for detailed instructions on setup, usa
 ## Getting Started:
 To get started with these projects, follow the instructions provided in each project's README file. 
 
-## Contributing:
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
