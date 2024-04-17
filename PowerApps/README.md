@@ -1,6 +1,15 @@
 # Gym Management Power App
 This Power App is designed to facilitate equipment issue tracking.
 
+## Getting Started:
+Access Power Apps and sign in with your Microsoft account.
+Import .msapp file into Power Apps (App_Phone for phone and App_Tablet for tablet version)
+Publish the app to Power Apps for use on mobile devices and tablets.
+For detailed instructions on customization and deployment, refer to the documentation provided within the Power App project.
+
+## Technical Documentation:
+Check the Documentation folder for technical documentation generated using PowerDocu. The documentation provides insights into the app's structure, functionality, and customization options.
+
 ## Features:
 Report equipment issues: log equipment problems and track maintenance status.
 
@@ -51,16 +60,6 @@ The items already registered turns red
 The incidents registered are then available in another screen where the gym manager can check and change the status when the incident is solved. This feature is only availble on the tablet version of the app. It is assumed that the incident is recorded with a phone, while the manager check the incidents with a tablet
 
 ![10 1_Insidencias](https://github.com/zepedromvramiao/Portfolio/assets/60276332/8bf1821c-fdb4-4459-9da6-06748bf67e95)
-
-
-## Getting Started:
-Access Power Apps and sign in with your Microsoft account.
-Import .msapp file into Power Apps (App_Phone for phone and App_Tablet for tablet version)
-Publish the app to Power Apps for use on mobile devices and tablets.
-For detailed instructions on customization and deployment, refer to the documentation provided within the Power App project.
-
-## Technical Documentation:
-Check the Documentation folder for technical documentation generated using PowerDocu. The documentation provides insights into the app's structure, functionality, and customization options.
 
 
 
