@@ -8,6 +8,10 @@ Power App: A mobile and tablet-friendly Power App for managing gym memberships, 
 
 Power Automate: Automated workflows for streamlining gym management tasks, such as sending notifications for equipment maintenance, membership renewals, etc.
 
+Power Pages: The gym's website, with available spaces, classes, and products sold
+
+Copilot Studio (ChatBot): A chatbot that informs about the gym's schedules and guides the user in purchasing products on the website
+
 Feel free to explore each project folder for detailed instructions on setup, usage, and customization.
 
 ## Getting Started:
