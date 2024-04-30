@@ -1,23 +1,34 @@
-# Gym Power Page
-Welcome to the Gym Power Page repository! This project is a demonstration of the capabilities of Power Pages, a component of Microsoft's Power Platform, in creating a dynamic and interactive web experience for a gym.
+# Gym ChatBot
+Welcome to the Gym ChatBot repository! This project is a demonstration of a ChatBot created using Copilot Studio, designed to provide information about gym opening hours and assist users in purchasing products.
 
 ## Overview
-The Gym Power Page is a web application created solely using Power Pages. It serves as a digital hub for  potential customers to explore the facilities, available activities, and purchase products.
+The Gym ChatBot is an AI-powered assistant tailored specifically for gym-related inquiries. Leveraging the capabilities of Copilot Studio, the ChatBot interacts with users in natural language to answer questions about gym opening hours and guide them through the product purchase process.
 
-## Features
-Facilities Showcase: Explore our gym's facilities with interactive visuals and descriptions.
-Activities Overview: Discover the range of activities available at our gym.
-Product Store: Browse gym-related products through a convenient online store.
+## Topics created
 
-
-### Homepage
-
-![PowerPages_Home](https://github.com/zepedromvramiao/Portfolio/assets/60276332/74078beb-1081-470f-8adb-afc199f55c96)
+### Gym opening hours
 
 
-### Products page
+![1](https://github.com/zepedromvramiao/Portfolio/assets/60276332/b3877f04-75cb-457e-bcc2-752b03d30ac4)
+
+![2](https://github.com/zepedromvramiao/Portfolio/assets/60276332/a8167b5e-5b5a-4154-a80c-b226549ae07d)
+
+![3](https://github.com/zepedromvramiao/Portfolio/assets/60276332/6231e62d-a61a-4923-9cc0-72a5f2d06b26)
 
 
-![PowerPages_Produtos](https://github.com/zepedromvramiao/Portfolio/assets/60276332/f85a12ad-dca0-4430-a824-b17da609536f)
+
+
+![4](https://github.com/zepedromvramiao/Portfolio/assets/60276332/c1721fb6-3c89-4f11-8d83-31a9b3c47b95)
+
+### 
+
+
+
+
+
+
+### Demo Chatbot
+
+https://copilotstudio.microsoft.com/environments/Default-92742eae-a119-43fb-a956-d7def744881a/bots/cr4ab_horarioAberturaGinasio/canvas?__version__=2
 
 
