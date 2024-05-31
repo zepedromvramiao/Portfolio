@@ -15,15 +15,15 @@ Report equipment issues: log equipment problems and track maintenance status.
 
 The app starts with a Login screen
 
-![1 1_Login](https://github.com/zepedromvramiao/Portfolio/assets/60276332/1e7e2a99-8dc9-4560-9996-7120c484fdf4)
+![Login](https://github.com/zepedromvramiao/Portfolio/assets/60276332/07ea605d-6d70-4279-b4e6-e17bcc73d451)
 
 If the username is not valide (i.e. not available in the database), the borderline turns red
 
-![1 2_Login](https://github.com/zepedromvramiao/Portfolio/assets/60276332/642c59f9-ccb3-4cc9-a1e4-1df307247741)
+![Login_errado](https://github.com/zepedromvramiao/Portfolio/assets/60276332/f0bbbf18-7cb7-47b7-9261-44631dfea7d7)
 
 If the username is valide (i.e. available in the database), the bordeline turns green
 
-![1 3_Login](https://github.com/zepedromvramiao/Portfolio/assets/60276332/bf4cca6b-41a2-4c9c-8cfd-52b8031da6ab)
+![Login_correcto](https://github.com/zepedromvramiao/Portfolio/assets/60276332/2e718360-c904-465c-91c4-67099d6bb5f8)
 
 The user can also recover the passwrod, only if a valide username is inserted
 
